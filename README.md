@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 ![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&langs_count=7&theme=github_dark&card_width=400px&&include_all_commits=true&count_private=true)
 
+<a href="https://github.com/JulianoPrates/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/JulianoPrates/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=convoychat" />
+</a>
+
 <div align="center">
   <a href="https://github.com/JulianoPrates">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
