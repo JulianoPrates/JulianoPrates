@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&langs_count=7&theme=github_dark&card_width=400px&&include_all_commits=true&count_private=true)
-
-<div>
-  <a href="https://github.com/JulianoPrates">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&langs_count=7&theme=github_dark&card_width=400px&&include_all_commits=true&count_private=true)" />
-  </a>
-  <a href="https://github.com/JulianoPrates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=convoychat" />
-  </a>
-</div>
+[![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&langs_count=7&theme=github_dark&card_width=400px&&include_all_commits=true&count_private=true)](https://github.com/JulianoPrates/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=github_dark&card_width=400px)](https://github.com/JulianoPrates/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/JulianoPrates">
