@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true)
 
 <div align="center">
   <a href="https://github.com/JulianoPrates">
