@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=github_dark&card_width=180px"/>
 </div>
 
-## -Linguagens que utilizo e estou aprendendo constantemente
+## Linguagens que utilizo e estou aprendendo constantemente
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="github" height="35" width="35" src="/Assets/GitHub.png">
 </div><br/>
   
-## - Minhas redes sociais e contato
+## Minhas redes sociais e contato
   
 <div> 
   <a href="https://www.linkedin.com/in/juliano-prates/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -30,7 +30,7 @@
  
   ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
  
- ## - Top Repositórios
+ ## Top Repositórios
 
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=github_dark" />
