@@ -28,12 +28,12 @@
   <a href = "mailto:contatojulianoprates@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/juliano_cunha_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
- 
  ## Top Repositórios
 
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=github_dark" />
 </a>
+  
+ ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
 
 </div>
