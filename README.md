@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Juliano Prates e estou aprendendo programação front end por conta própria e fazendo um curso de desenvolvimento full stack.
+### 👋 Olá! Eu sou o Juliano Prates. Sou formado em administração e estou aprendendo programação front end por conta própria e fazendo um curso de desenvolvimento full stack.
 
 <!--
 **JulianoPrates/JulianoPrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
