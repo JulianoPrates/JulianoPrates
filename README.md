@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=github_dark&card_width=180px"/>
 </div>
 
-## Linguagens que utilizo e estou aprendendo constantemente ![image](https://user-images.githubusercontent.com/115593123/196753933-77dbdc68-b769-4070-9d36-1490d4bcaeba.png)
+## Linguagens que utilizo e estou aprendendo constantemente
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
