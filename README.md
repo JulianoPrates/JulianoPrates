@@ -36,7 +36,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   
 ## Minhas contribuições
   
-<div align = "center">
+<div align = "left">
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoPrates&theme=vision-friendly-dark"/> 
 </div>
