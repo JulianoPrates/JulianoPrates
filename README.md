@@ -33,6 +33,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   <a href = "mailto:contatojulianoprates@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <br>
  <br>
+  
 ## Minhas contribuições
   
 <div align = "center">
