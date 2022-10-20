@@ -43,3 +43,8 @@ https://github.com/anuraghazra/github-readme-stats#themes
  ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoPrates&theme=github_dark"/> 
+</div>
