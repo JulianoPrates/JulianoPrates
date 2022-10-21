@@ -9,7 +9,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
 <div align="center">
   <a href="https://github.com/JulianoPrates">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&include_all_commits=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## Linguagens e ferramentas que utilizo
