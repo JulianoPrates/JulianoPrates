@@ -46,10 +46,11 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 <div align="center">
 <a href="https://github.com/JulianoPrates/Dev-Full-Stack-Estacio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical&card_width=413px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical" />
 </a>
+  <br>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical&card_width=413px" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical" />
 </div>
   
  ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
