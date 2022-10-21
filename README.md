@@ -38,7 +38,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   
 <div align = "left">
 <a href="https://git.io/streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoPrates&theme=radical"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoPrates&theme=radical"/> 
 </div>
 <br>
   
