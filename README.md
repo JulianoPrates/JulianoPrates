@@ -37,7 +37,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 ## Meus hobbies
 
-https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 
 ## Minhas contribuições
   
