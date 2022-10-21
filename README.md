@@ -8,8 +8,8 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 <div align="center">
   <a href="https://github.com/JulianoPrates">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&include_all_commits=true&theme=radical"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&include_all_commits=true&card_width=400px&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## Linguagens e ferramentas que utilizo
@@ -45,10 +45,10 @@ https://github.com/anuraghazra/github-readme-stats#themes
  ## Top Repositories
 
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical&card_width=400px" />
 </a>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical&card_width=400px" />
 </a>
   
  ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
