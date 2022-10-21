@@ -49,7 +49,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical" />
 </a>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical&" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical" />
 </a>
 </div>
   
