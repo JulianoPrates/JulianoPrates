@@ -44,7 +44,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   
  ## Top Repositories
 
-<a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
+<a href="https://github.com/JulianoPrates/Dev-Full-Stack-Estacio">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical" />
 </a>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
