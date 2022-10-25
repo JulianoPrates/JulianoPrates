@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+
+
 ### 👋 Olá! Eu sou o Juliano Prates. Sou formado em administração e estou aprendendo programação front end por conta própria e fazendo um curso de desenvolvimento full stack.
 
 <!--
