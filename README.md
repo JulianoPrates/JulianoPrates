@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A59F4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Juliano+Prates;Sou+do+Rio+Grande+do+Sul;Sou+formado+em+administração;Estou+aprendendo+front+end;Estou+cursando+Desenvolvimento+Full+Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3A77FB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Juliano+Prates;Sou+do+Rio+Grande+do+Sul;Sou+formado+em+administração;Estou+aprendendo+front+end;Estou+cursando+Desenvolvimento+Full+Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ### 👋 Olá! Eu sou o Juliano Prates. Sou formado em administração e estou aprendendo programação front end por conta própria e fazendo um curso de desenvolvimento full stack.
@@ -11,17 +11,13 @@
 https://github.com/anuraghazra/github-readme-stats#themes
 -->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-
 <div align="center">
   <a href="https://github.com/JulianoPrates">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&include_all_commits=true&card_width=400px&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&count_private=true&hide_border=true&title_color=3A77FB&icon_color=3A77FB&text_color=c9d1d9&bg_color=0d1117&card_width=400px" alt="Juliano Prates github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&hide_border=true&title_color=3A77FB&text_color=F8F8FA&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulianoPrates&bg_color=0d1117&color=0E5AFE&line=3A77FB&point=95B6FB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ## Linguagens e ferramentas que utilizo
   
