@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3A77FB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Juliano+Prates;Sou+do+Rio+Grande+do+Sul;Sou+formado+em+administração;Estou+aprendendo+front+end;Estou+cursando+Desenvolvimento+Full+Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-### 👋 Olá! Eu sou o Juliano Prates. Sou formado em administração e estou aprendendo programação front end por conta própria e fazendo um curso de desenvolvimento full stack.
-
 <!--
 **JulianoPrates/JulianoPrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
