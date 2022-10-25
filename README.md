@@ -13,7 +13,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 <div align="center">
   <a href="https://github.com/JulianoPrates">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&count_private=true&hide_border=true&title_color=3A77FB&icon_color=3A77FB&text_color=c9d1d9&bg_color=0d1117&card_width=400px" alt="Juliano Prates github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&count_private=true&hide_border=true&no-bg=true&title_color=3A77FB&icon_color=3A77FB&text_color=c9d1d9&bg_color=0d1117&card_width=400px" alt="Juliano Prates github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&hide_border=true&title_color=3A77FB&text_color=F8F8FA&bg_color=0d1117" />
 </div>
 
