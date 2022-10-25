@@ -18,6 +18,11 @@ https://github.com/anuraghazra/github-readme-stats#themes
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulianoPrates&bg_color=0d1117&color=0E5AFE&line=3A77FB&point=95B6FB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JulianoPrates&theme=darkhub&row=2&no-bg=true&no-frame=true&column=6&margin-w=15&margin-h=15" />
+</p>
+<br>
 
 ## Linguagens e ferramentas que utilizo
   
@@ -63,13 +68,15 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 <div align="left">
 <a href="https://github.com/JulianoPrates/Dev-Full-Stack-Estacio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&hide_border=true&title_color=3A77FB&text_color=F8F8FA&bg_color=0d1117" />
 </a>
   <br>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&hide_border=true&title_color=3A77FB&text_color=F8F8FA&bg_color=0d1117" />
 </div>
   
  ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A59F4&height=120&section=footer"/>
