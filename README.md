@@ -32,6 +32,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   <img align="center" alt="Ju-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Ju-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />      
   <img align="center" alt="Ju-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" color="white" alt="Ju-Codepen" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg">
   <img align="center" alt="Ju-github" height="35" width="35" src="/Assets/GitHub.png">        
 </div><br/>
   
