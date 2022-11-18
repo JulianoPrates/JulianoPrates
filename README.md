@@ -15,7 +15,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&hide_border=true&title_color=5882FA&text_color=F8F8FA&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulianoPrates&bg_color=0d1117&color=0E5AFE&line=2E64FE&point=95B6FB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulianoPrates&bg_color=0d1117&color=5882FA&line=2E64FE&point=95B6FB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JulianoPrates&theme=darkhub&row=2&no-bg=true&no-frame=true&column=6&margin-w=15&margin-h=15" />
@@ -66,7 +66,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 <div align="left">
 <a href="https://github.com/JulianoPrates/Dev-Full-Stack-Estacio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&hide_border=true&title_color=3A77FB&text_color=F8F8FA&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=Dev-Full-Stack-Estacio&hide_border=true&title_color=5882FA&text_color=F8F8FA&bg_color=0d1117" />
 </a>
   <br>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
