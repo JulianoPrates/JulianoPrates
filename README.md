@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A59F4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E64FE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Juliano+Prates;Sou+do+Rio+Grande+do+Sul;Sou+formado+em+administração;Estou+aprendendo+front+end;E+estou+cursando+Desenvolvimento+Full+Stack;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5882FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Juliano+Prates;Sou+do+Rio+Grande+do+Sul;Sou+formado+em+administração;Estou+aprendendo+front+end;E+estou+cursando+Desenvolvimento+Full+Stack;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 <!--
@@ -11,8 +11,8 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 <div align="center">
   <a href="https://github.com/JulianoPrates">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&&title_color=2E64FE&icon_color=2E64FE&text_color=c9d1d9&card_width=400px" alt="Juliano Prates github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&hide_border=true&title_color=2E64FE&text_color=F8F8FA&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoPrates&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&&title_color=5882FA&icon_color=5882FA&text_color=c9d1d9&card_width=400px" alt="Juliano Prates github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoPrates&layout=compact&hide_border=true&title_color=5882FA&text_color=F8F8FA&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JulianoPrates&bg_color=0d1117&color=0E5AFE&line=2E64FE&point=95B6FB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
@@ -70,7 +70,7 @@ https://github.com/anuraghazra/github-readme-stats#themes
 </a>
   <br>
 <a href="https://github.com/JulianoPrates/HTML-CSS-e-JS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&hide_border=true&title_color=2E64FE&text_color=F8F8FA&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoPrates&repo=HTML-CSS-e-JS&hide_border=true&title_color=5882FA&text_color=F8F8FA&bg_color=0d1117" />
 </div>
   
  ![Snake animation](https://github.com/JulianoPrates/JulianoPrates/blob/output/github-contribution-grid-snake.svg)
